@@ -1,2 +1,1 @@
-# 1sayt
-hali davom etiladi
+# tutorial-portfolio
